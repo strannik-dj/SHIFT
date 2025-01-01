@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SHIFT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SHIFT_jar</output-path>
+    <root id="archive" name="SHIFT.jar">
+      <element id="module-output" name="SHIFT" />
+    </root>
+  </artifact>
+</component>
